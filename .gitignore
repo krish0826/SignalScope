@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Datasets
+data/
+*.zip
+*.7z
+*.rar
+
+# Hugging Face cache
+.cache/
+.cache/huggingface/
+huggingface/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs
+models/gradcam_result.jpg
+models/gradcam_result.png
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
